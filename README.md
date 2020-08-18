@@ -2,7 +2,7 @@
 
 # RAF PP MATERIALS
 
-Materials from *"Compiler Construction"* course at Faculty of Computing in Belgrade.
+Materials from *"Compiler Construction"* course at Faculty of Computing in Belgrade. The following notebooks are extracted from [C Compiler](https://github.com/jelic98/c_compiler) repository.
 
 Python - Introduction to programming language, Implementation of a basic lexer:
 [notebook](https://github.com/jelic98/raf_pp_materials/blob/master/Notebooks/01_Python.ipynb)
