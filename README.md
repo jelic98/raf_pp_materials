@@ -4,6 +4,30 @@
 
 Materials from *"Compiler Construction"* course at Faculty of Computing in Belgrade. The following notebooks are extracted from [C Compiler](https://github.com/jelic98/c_compiler) repository.
 
+### Course
+
+Course information:
+[document](https://github.com/jelic98/raf_pp_materials/blob/master/Informacije.pdf)
+
+C language context-free grammar:
+[document](https://github.com/jelic98/raf_pp_materials/blob/master/C%20-%20Gramatika.pdf)
+
+Exam practice material:
+[document](https://github.com/jelic98/raf_pp_materials/blob/master/Priprema%20za%20ispit.pdf)
+
+### Project
+
+Project statement:
+[document](https://github.com/jelic98/raf_pp_materials/blob/master/Projekat/Postavka.pdf)
+
+Google Drive mount manual:
+[document](https://github.com/jelic98/raf_pp_materials/blob/master/Projekat/Uputstvo%20-%20Google%20Drive.pdf)
+
+Project grader:
+[notebook](https://github.com/jelic98/raf_pp_materials/blob/master/Projekat/Acinonyx.ipynb)
+
+### Exercise classes
+
 Python - Introduction to programming language, Implementation of a basic lexer:
 [notebook](https://github.com/jelic98/raf_pp_materials/blob/master/Notebooks/01_Python.ipynb)
 
